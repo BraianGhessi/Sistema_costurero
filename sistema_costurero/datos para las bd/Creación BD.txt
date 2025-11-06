@@ -1,0 +1,7 @@
+Para crear la bd:
+
+1)_ en localhost/phpmyadmin, crear una base de datos nueva llamada "sistema_costurero".
+
+2)_ doble click en la base recien creada.
+
+3)_ importar el archivo sistema_costurero.sql
